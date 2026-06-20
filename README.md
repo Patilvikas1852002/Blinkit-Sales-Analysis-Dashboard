@@ -1,9 +1,5 @@
 # Blinkit-Sales-Analysis-Dashboard
 
-Professional README.md
-
-Copy the following into your README file.
-
 Blinkit Sales Analysis Dashboard
 Project Overview
 
@@ -86,11 +82,7 @@ Better inventory planning
 Enhanced business decision-making
 Author
 
-Your Name
-
-LinkedIn: Your LinkedIn URL
-
-GitHub: Your GitHub Profile
+Your Vikas Patil
 
 4. Git Commands
 
