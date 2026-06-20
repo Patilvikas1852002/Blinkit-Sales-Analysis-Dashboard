@@ -9,7 +9,7 @@ The objective is to help stakeholders make data-driven decisions by identifying 
 
 Dashboard Preview
 
-(Add your dashboard screenshot here)
+(Added dashboard screenshot here)
 
 <img width="1301" height="736" alt="Screenshot 2026-04-02 195617" src="https://github.com/user-attachments/assets/cb2ece6f-2e3e-4205-ae70-ab6dac74bc08" />
 
